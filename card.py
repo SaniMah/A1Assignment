@@ -49,4 +49,7 @@ class Card:
             Best Case Complexity:
             Worst Case Complexity:
         """
+        self.color = color
+        self.label = label
         raise NotImplementedError
+        
